@@ -1,0 +1,22 @@
+{
+  "name": "test_backend",
+  "version": "1.0.0",
+  "description": "Un back-end de prueba que sirve un json con datos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "json",
+    "back-end",
+    "node",
+    "npm",
+    "express"
+  ],
+  "author": "Ricardo José Guevara Aragón",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
