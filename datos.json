@@ -1,0 +1,27 @@
+[
+    {
+        "Serie": "Invencible",
+        "PuntajeRick": 8.5,
+        "PuntajeVera": 9
+    },
+    {
+        "Serie": "Breaking bad",
+        "PuntajeRick": 9.5,
+        "PuntajeVera": 9
+    },
+    {
+        "Serie": "The boys",
+        "PuntajeRick": 8,
+        "PuntajeVera": 8
+    },
+    {
+        "Serie": "Castlevania",
+        "PuntajeRick": 7.5,
+        "PuntajeVera": 6.5
+    },
+    {
+        "Serie": "Avatar: The last air bender",
+        "PuntajeRick": 8.5,
+        "PuntajeVera": 8
+    }
+]
